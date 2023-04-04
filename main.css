@@ -82,7 +82,7 @@ p{
     overflow: visible;
     transform-origin: center;
     -webkit-animation: ror 400s infinite;
-    filter: blur(6px) drop-shadow(0px 4px 200px #FFE082)  drop-shadow(0px 4px 100px #F4CD58) drop-shadow(0px 4px 50px #E2963D)  ;
+    filter: blur(1px) drop-shadow(0px 4px 200px #FFE082)  drop-shadow(0px 4px 100px #F4CD58) drop-shadow(0px 4px 50px #E2963D)  ;
 }
 
 h1 {
