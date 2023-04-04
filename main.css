@@ -35,7 +35,7 @@ p{
     display: flex;
     justify-content: center;
     align-items: center;
-    transform: scale(2);
+    transform: scale(1.6);
     width: 100%;
     overflow: visible;
     z-index: 14;
@@ -58,15 +58,15 @@ p{
 {
     0%
     {
-        transform: scale(2);
+        transform: scale(1.7);
     }
     50%
     {
-        transform: scale(2.056);
+        transform: scale(1.656);
     }
     100%
     {
-        transform: scale(2);
+        transform: scale(1.7);
     }
 }
 
