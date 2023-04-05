@@ -38,7 +38,7 @@ h1 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     opacity: 0.0;
     color: rgb(255, 234, 165);
-    background-color: red;
+    
     font-size: 20pt;
     -webkit-animation: soom 1s ease-in-out 3s, stay 100s ease-in 4s;
 
@@ -176,7 +176,7 @@ img {
     height: 225px;
     filter: brightness(110%);
     z-index: 5;
-    background: blue;
+    
    
 
 }
